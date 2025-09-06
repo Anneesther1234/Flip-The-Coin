@@ -17,6 +17,7 @@ h1{
     font-size: 64px;
     font-weight: 900;
     font-style: normal;
+    text-align: center;
     color: #ECEDF0;
     margin:0;
     text-shadow: 2px 2px 0px #35383f;
@@ -26,6 +27,7 @@ h1{
 h2{
     font-family:"kanit","sans-serif";
     font-size: 24px ;
+    text-align: center;
     font-weight: 600;
     color: #ECEDF0;
     margin:0;
