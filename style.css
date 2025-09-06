@@ -11,6 +11,7 @@ body {
     flex-direction: column;
     align-items: center;
     gap: 32px;
+    margin-top: 3% ;
 }
 h1{
     font-family: "Kanit", sans-serif;
